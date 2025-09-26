@@ -1,4 +1,4 @@
-main: ObserverCMD\Main
+main: Main
 name: "ObserverCMD"
 version: "1.0.2"
 api: "2.0.0"
