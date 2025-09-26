@@ -1,0 +1,10 @@
+main: ObserverCMD\Main
+name: "ObserverCMD"
+version: "1.0.2"
+api: "2.0.0"
+author: "Tizzi32"
+description: "Logs and observes player commands with timestamps"
+commands:
+  ob:
+    description: View the commands executed by a player
+    usage: /ob <player>
